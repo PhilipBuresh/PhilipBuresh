@@ -8,7 +8,7 @@
 
 ![](https://user-images.githubusercontent.com/114904886/193530405-bc3ea13b-579a-40da-88f5-602836b87deb.gif)
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **New Web**
 
 - 🌱 I’m currently learning **Java, JavaScript**
 
