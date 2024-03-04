@@ -6,7 +6,8 @@
 <h1 align="center">Hi 👋, I'm Filip Bureš</h1>
 <h3 align="center">Student - SPSMB</h3>
 
-![](https://user-images.githubusercontent.com/114904886/193530405-bc3ea13b-579a-40da-88f5-602836b87deb.gif)
+![](https://github.com/PhilipBuresh/PhilipBuresh/assets/114904886/23416d85-365c-4df0-a37a-7cb942f49c6e)
+
 
 - 🔭 I’m currently working on **New Web**
 
